@@ -43,3 +43,10 @@ This project utilizes **Logistic Regression** to predict whether a tumor is beni
 ```bash
 git clone https://github.com/Ajay-Kumar-Prasad/Breast_Cancer_Detection_Logistic_Reg.git
 cd Breast_Cancer_Detection_Logistic_Reg
+
+2. Create a Virtual Environment 
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
+3. Install Dependencies
+pip install -r requirements.txt
